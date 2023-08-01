@@ -1,0 +1,3 @@
+const initialValue = {
+    user: null
+}
